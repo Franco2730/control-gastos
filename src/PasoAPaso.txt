@@ -1,0 +1,7 @@
+Lo que hicimos primero fue:
+1- crear el proyecto con la consola (al terminar este proyecto completar esta parte)
+2- Importar el link de Normalize (https://necolas.github.io/normalize.css/8.0.1/normalize.css) y pegarlo como link en el index.html
+3- importar alguna fuente.
+4- crear dos componentes llamados Header.jsx y NuevoPresupuesto.jsx. En el interior de cada uno utilizar el RFCE para que se complete el cuerpo de un componente. En el header cambiamos los div's por etiquetas Header y le colocamos un h1. 
+5- En el archivo App.jsx importamos el header, en el return de dicho archivo colocamos un div para que sea un unico hijo el que retorne todos los componentes y dentro del div colocamos <Header/>
+
